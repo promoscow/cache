@@ -7,15 +7,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import ru.xpendence.cache.AbstractTest;
 import ru.xpendence.cache.domain.User;
 
-import java.util.stream.Stream;
-
-import static org.junit.Assert.*;
-
 /**
  * Author: Vyacheslav Chernyshov
  * Date: 31.08.19
  * Time: 10:59
- * e-mail: v.chernyshov@pflb.ru
+ * e-mail: slava_rossii@list.ru
  */
 @Slf4j
 public class UserServiceTest extends AbstractTest {

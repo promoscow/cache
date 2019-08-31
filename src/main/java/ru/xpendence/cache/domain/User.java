@@ -11,7 +11,7 @@ import java.io.Serializable;
  * Author: Vyacheslav Chernyshov
  * Date: 31.08.19
  * Time: 10:52
- * e-mail: v.chernyshov@pflb.ru
+ * e-mail: slava_rossii@list.ru
  */
 @Entity
 @Table(name = "users")

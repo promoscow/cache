@@ -1,7 +1,6 @@
 package ru.xpendence.cache.service;
 
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 import ru.xpendence.cache.domain.User;
@@ -13,7 +12,7 @@ import javax.persistence.EntityNotFoundException;
  * Author: Vyacheslav Chernyshov
  * Date: 31.08.19
  * Time: 10:56
- * e-mail: v.chernyshov@pflb.ru
+ * e-mail: slava_rossii@list.ru
  */
 @Slf4j
 @Service
